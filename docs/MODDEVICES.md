@@ -21,9 +21,9 @@ If you already know Rack, Cardinal will be very familiar to you.
 
 Currently Cardinal does not allow patch editing directly on the MOD units,
 instead users need to run the "desktop" version of the plugin and connect it to the device.  
-This is easily done by the use of "File" -> "Connect to MOD" action.
+This is easily done by the use of "File" -> "Connect to Remote" action.
 
-After a successful connection, the same "File" menu will now show a "Deploy to MOD" option.  
+After a successful connection, the same "File" menu will now show a "Deploy to Remote" option.  
 Clicking on it will push the current patch to the MOD unit, along with a screenshot of the current view.  
 You can also use the F7 shortcut key to do the same.
 
